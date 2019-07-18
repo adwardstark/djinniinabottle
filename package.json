@@ -1,0 +1,5 @@
+{
+  "devDependencies": {
+    "djinni": "dropbox/djinni"
+  }
+}
