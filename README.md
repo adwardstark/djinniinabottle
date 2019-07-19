@@ -28,7 +28,9 @@ Every new language introduces a great change in mobile development and there are
      ./gradlew build
      ```
 
-   - iOS
+   - For iOS
      ```
-     Coming Soon [ WIP ]
+     1. Open project in Xcode
+     
+     2. Go to Product > Build
      ```
